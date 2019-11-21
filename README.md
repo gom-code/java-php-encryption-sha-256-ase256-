@@ -1,4 +1,4 @@
-# java-php-encryption-sha-256-ase256-
+# java-php-encryption-sha-256-ase256
 - 공부용으로 올립니다.
 - 데이터 통신시 사용가능 
 
